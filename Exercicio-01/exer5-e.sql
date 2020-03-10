@@ -1,0 +1,1 @@
+SELECT MAX(numero_pedido) FROM pedidos
