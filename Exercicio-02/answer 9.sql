@@ -1,0 +1,1 @@
+SELECT nome_bebida, gelo, calorias FROM info_bebidas WHERE gelo = 'Y' AND calorias > 50

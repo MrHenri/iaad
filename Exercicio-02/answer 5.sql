@@ -1,0 +1,1 @@
+SELECT nome_bebida, qtd1, qtd2 FROM bebidas WHERE qtd1 > qtd2

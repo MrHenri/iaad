@@ -1,0 +1,1 @@
+SELECT nome_bebida, preco FROM info_bebidas WHERE preco > 3 AND preco < 4
